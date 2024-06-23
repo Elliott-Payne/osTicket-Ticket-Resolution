@@ -8,7 +8,7 @@
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/kirkgacias/osticket-prereqs"> osTicket - Prerequisites, Setup, and Installation </a>
+- <a href="https://github.com/Elliott-Payne/Setting-Up-osTicket"> osTicket - Prerequisites, Setup, and Installation </a>
 
 <h2>Key Objectives</h2>
 
